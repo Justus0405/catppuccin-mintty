@@ -16,7 +16,7 @@ For future use
 
 <details>
   <summary>🌿 Mocha</summary>
-  ![Catppuccin-Mocha](https://github.com/user-attachments/assets/fbee3f61-8fe6-4126-908e-a588673bef46)
+  <img src="https://github.com/user-attachments/assets/fbee3f61-8fe6-4126-908e-a588673bef46"/>
 </details>
 
 ## Usage
