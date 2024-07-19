@@ -5,11 +5,8 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-<!---
-For future use
--->
 <p align="center">
-
+  <img src="https://github.com/user-attachments/assets/822f0ba7-0610-4b61-ac3b-6423b05f95f6"/>
 </p>
 
 ## Previews
