@@ -28,3 +28,5 @@ For future use
     ```
 
 2. Copy your desired flavor to the mintty themes folder located at "C:\Program Files\Git\usr\share\mintty\themes"
+3. Open the mintty options by right-clicking on the top window bar of your mintty terminal and choosing options
+4. Select your theme, press apply & save
