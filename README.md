@@ -6,6 +6,12 @@
 </h3>
 
 <p align="center">
+    <a href="https://github.com/Justus0405/catppuccin-mintty/stargazers">   <img src="https://img.shields.io/github/stars/Justus0405/catppuccin-mintty?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/Justus0405/catppuccin-mintty/issues">       <img src="https://img.shields.io/github/issues/Justus0405/catppuccin-mintty?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/Justus0405/catppuccin-mintty/contributors"> <img src="https://img.shields.io/github/contributors/Justus0405/catppuccin-mintty?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/822f0ba7-0610-4b61-ac3b-6423b05f95f6"/>
 </p>
 
